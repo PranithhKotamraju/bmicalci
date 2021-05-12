@@ -34,7 +34,7 @@ String getResult(){
     if (_bmi >= 25) {
       return 'Your Overweight , Take care ';
     } else if (_bmi > 18.5) {
-      return ' Your normal weight , That\'s ok';
+      return ' Your normal weight , Good Job';
     } else {
       return ' Your under weight, Eat More';
     }
